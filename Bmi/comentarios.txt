@@ -1,0 +1,4 @@
+linea 17
+
+ #Es crear un atributo para la tabla, en este caso elijes el color de la tabla y el numero de colores
+#Haces una grafica de 2 variables "mm" y "hh", además de ponerle el atributo de arriba

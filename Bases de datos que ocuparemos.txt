@@ -1,0 +1,34 @@
+Precip3 metadata - hoy
+Iris metadata - tarea
+
+Analisas
+
+Landsat
+0<=intensidad=<1
+va de negro (0) a blanco (1)
+R,G,B,α (Rojo, Green, Blue, Transparencia)
+
+Centralidad (media)
+Faltan: Variabilidad
+	Frecuencia (En el tiempo)
+
+
+.coma separated value
+numpy (numeros)
+scipy (Cientific python)
+matplotlib.pyplot (artista)
+matplotlib.image (procesa)
+
+
+() = funciones
+[] = elementos de un arreglo
+x=[a,b,c,d,e]
+x[2]=c
+x[[0,1,2]]=a,b,c
+x[0:3]=a,b,c "Siempre termina uno antes"
+x[:3]= a,b,c
+
+----------------------------------------
+Organizar datos
+Hacer graficos
+Calcular estadisticos de sintensis: *Robustos  *No robustos

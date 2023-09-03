@@ -1,0 +1,2 @@
+player,frame,x,y,z,dx,dy,coords,player_num,player_obj,team,num,name,edgecolor,bgcolor
+
